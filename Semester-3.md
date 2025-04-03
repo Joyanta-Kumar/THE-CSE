@@ -120,26 +120,39 @@
 > Progress: 0 / 30 hour <br>
 > Last topic: null <br>
 ### Topics:
-Introduction: Object oriented programming overview. Object
-Oriented Concepts: Modeling problems using object oriented
-concepts. Introduction to UML.Encapsulation, Inheritance and
-Polymorphism. Object Oriented vs. Procedural programming, Basics
-of Object Oriented Programming language. Objects and Classes:
-Attributes and functions, constructors and destructors, functions
-or methods, overloading methods, access control, special
-considerations in different languages. I/O: Stream and files.
-Inheritance: Inheriting classes, subclass, super class, access
-control, inheritance hierarchy, overriding, dynamic binding,
-abstract class, inner classes, special considerations in different
-languages, multiple inheritance, interface. Exception and
-exception handling: Exception handling fundamentals, exception
-types, chained exception, creating own exception subclasses.
-Generics or Templates: Special considerations in different
-languages. Package/Namespace: Understanding and implementing
-package/namespace. Object-oriented Design Principles and examples:
-Introduction to object-oriented design principles and examples,
-introduction to object-oriented design. Case Study using Object
-Oriented Programming.
+1. __Intro__:
+    1. Encapsulation, inheritance and, polymorphism
+    2. Object Oriented vs. Procedural programming
+2. __Basics of object oriented programming language__
+    1. Attributes and functions
+    2. Constructors and destructors
+    3. Overloading methods
+    4. Access control
+3. __I/O__: Stream and files.
+4. __Inheritance__:
+    1. Inheriting
+        1. Classes
+        2. Subclass
+        3. Super class
+    2. Access control
+    3. Inheritance hierarchy
+    4. Overriding
+    5. Dynamic binding,
+    6. Abstract class
+    7. Inner classes
+    8. Multiple inheritance
+    9. Interface
+5. __Exception handling__:
+    1. Exception handling fundamentals
+    2. Exception types
+    3. Chained exception
+    4. Creating own exception subclasses
+6. __Generics or templates__:
+    1. Package/Namespace: Understanding and implementing package/namespace.
+7. __Object oriented design principles and examples__:
+    1. Introduction to object-oriented design principles and examples
+    2. Introduction to object-oriented design
+8. Case study using object oriented programming.
 
 ## Digital electronics and pulse technique
 ### Meta
