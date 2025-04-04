@@ -258,23 +258,46 @@ Theory of oscillation and characteristics of different oscillators
 > Progress: 0 / 30 hour <br>
 > Last topic: null <br>
 ### Topics:
-Basics: Matrices, Linear Equations and Gaussian Elimination,
-Inverse Matrices, LU Factorization. Vector Spaces: Solving system
-of linear equations and row space, column space, null space, and
-Rank. Linear independence: basis and dimension. Orthogonal
-vectors: Subspaces, inner products, projection onto subspaces,
-projection matrices and least squares, orthogonal basis and Gram-
-Schmidt orthogonalization. Determinants and their properties, Co-
-factors, Cramer's rule and other applications of
-determinants.Eigenvalues and Eigenvectors: Basics, application in
-diagonalization, computing powers of matrices, and solving
-difference equations. Various Matrices: Symmetric matrices,
-Hermitian matrices, Spectral theorem, positive definite matrices
-and minima. Introduction to Linear Transformations: change of
-basis, and Singular Value Decomposition. Computation with
-Matrices: using MATLAB/OCTAVE, norm of a matrix and condition
-number, Left and Right inverse and pseudoinverse, QR
-decomposition
+1. Basics:
+    1. Matrices
+    2. Linear Equations and Gaussian Elimination
+    3. Inverse Matrices
+    4. LU Factorization
+2. Vector Spaces:
+   1. Solving system of linear equations and row space
+   2. column space
+   3. null space
+   4. Rank
+3. Linear independence:
+    1. basis and dimension
+4. Orthogonal vectors:
+    1. Subspaces
+    2. inner products
+    3. projection onto subspaces
+    4. projection matrices and least squares
+    5. orthogonal basis
+    6. Gram-Schmidt orthogonalization
+    7. Determinants and their properties
+    8. Co-factors, Cramer's rule
+    9. other applications of determinants.
+5. Eigenvalues and Eigenvectors:
+    1. Basics
+    2. application in diagonalization
+    3. computing powers of matrices
+    4. solving difference equations.
+6. Various Matrices:
+    1. Symmetric matrices
+    2. Hermitian matrices
+    3. Spectral theorem
+    4. positive definite matrices and minima
+7. Introduction to Linear Transformations:
+    1. change of basis
+    2. Singular Value Decomposition
+8. Computation with Matrices:
+    1. using MATLAB/OCTAVE
+    2. norm of a matrix and condition number
+    3. Left and Right inverse and pseudoinverse
+    4. QR decomposition
 
 ## Bangladesh studies
 ### Meta
