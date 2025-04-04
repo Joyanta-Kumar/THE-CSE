@@ -307,17 +307,30 @@ Theory of oscillation and characteristics of different oscillators
 > Progress: 0 / 30 hour <br>
 > Last topic: null <br>
 ### Topics:
-Introduction to the course and its objectives.History and Society
-of Bengal under the British rule and Pakistan rule: The impact of
-British and Pakistan rules on the economy and education of the
-people. Language Movement of 1952, Events Leading to the Mass
-Upsurge of 1969, War of Independence and the Emergence of
-Bangladesh in 1971.Study of Geography and Resources of Bangladesh:
-Location, Area, Boundary, Ecological Settings, River System,
-Climate, People and Resources of Bangladesh. Social Structure of
-Bangladesh. Culture of Bangladesh: Language, Literature, Art and
-Culture of Bangladesh. Politics, Formation and role of major
-political parties in Bangladesh and Constitutional development of
-Bangladesh.Economy of Bangladesh.Achievements in different sectors
-(economy, culture, sports etc.) of Bangladesh.Socio-cultural
-problems and prospects of Bangladesh
+1. Introduction to the course and its objectives.
+2. History and Society of Bengal under the British rule and Pakistan rule:
+    1. The impact of British and Pakistan rules on the economy and education of the people.
+    2. Language Movement of 1952, Events Leading to the Mass Upsurge of 1969
+    3. War of Independence and the Emergence of Bangladesh in 1971
+3. Study of Geography and Resources of Bangladesh:
+    1. Location
+    2. Area
+    3. Boundary
+    4. Ecological Settings
+    5. River System
+    6. Climate
+    7. People
+    8. Resources of Bangladesh.
+4. Social Structure of Bangladesh.
+5. Culture of Bangladesh:
+    1. Language
+    2. Literature
+    3. Art
+    4. Culture of Bangladesh.
+7. Politics, Formation and role of major political parties in Bangladesh and Constitutional development of Bangladesh.
+8. Economy of Bangladesh
+9. Achievements in different sectors
+    1. economy
+    2. culture
+    3. sports
+10. Socio-cultural problems and prospects of Bangladesh
