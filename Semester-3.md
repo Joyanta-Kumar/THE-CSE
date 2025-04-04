@@ -162,19 +162,45 @@
 > Progress: 0 / 30 hour <br>
 > Last topic: null <br>
 ### Topics:
-Logic Gates: Diode logic gates, transistor switches, transistor
-gates, MOS gates; Logic Families: TTL, ECL, IIL and CMOS logic
-with operation details Propagation delay, product and noise
-immunity; Open collector and high impedance gates; Electronic
-circuits for flip-flops, counters and register, memory systems,
-PLAs; A/D and D/A converters with applications; S/H circuits, LED,
-LCD and optically coupled oscillators; Non-linear applications of
-OP AMPs; Analog switches; Linear wave shaping: diode wave shaping
-techniques, clipping and clamping circuits. comparator circuits,
-switching circuits; Pulse transformers, pulse transmission, pulse
-generation; monostable, bistable and astable multivibrators,
-Schmitt trigger, blocking oscillators and time-base circuit;
-Timing circuits; Simple voltage sweeps, linear current sweeps.
+1. Logic Gates:
+    1. Diode logic gates
+    2. transistor switches
+    3. transistor gates
+    4. MOS gates
+2. Logic Families:
+    1. TTL
+    2. ECL
+    3. IIL
+    4. CMOS
+    5. logic with operation details Propagation delay
+    6. product and noise immunity
+3. Open collector and high impedance gates
+4. Electronic circuits for -
+    1. flip-flops
+    2. counters
+    3. register
+    4. memory
+5. PLAs
+6. A/D and D/A converters with applications
+7. S/H circuits, LED, LCD and optically coupled oscillators
+8. Non-linear applications of OP AMPs
+9. Analog switches
+10. Linear wave shaping:
+    1. diode wave shaping techniques
+    2. clipping and clamping circuits
+    3. comparator circuits
+    4. switching circuits
+11. Pulse:
+    1. transformers
+    2. transmission
+    3. generation
+12. multivibrators:
+    1. monostable
+    2. bistable
+    3. astable
+13. Schmitt trigger, blocking oscillators and time-base circuit;
+14. Timing circuits
+15. Simple voltage sweeps, linear current sweeps.
 
 ## Electronic devices and circuits
 ### Meta
