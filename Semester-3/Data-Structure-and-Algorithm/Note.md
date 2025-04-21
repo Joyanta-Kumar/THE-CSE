@@ -37,3 +37,4 @@ Named after a 13<sup>th</sup> century_Italian mathematician known as Fibonacci, 
 
 #### [Using loop](./Code/Fibonacci/Loop.cpp)
 #### [Using recursion](./Code/Fibonacci/Recursion.cpp)
+#### [Get n<sup>th</sup> Fibonacci](./Code/Fibonacci/FindNth.cpp)
